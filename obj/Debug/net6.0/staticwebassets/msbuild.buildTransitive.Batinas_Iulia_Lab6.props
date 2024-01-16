@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Batinas_Iulia_Lab6.props" />
+</Project>
